@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "System Optimizations",
+  "pub_date": "2026-08-03T22:20:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lHMFI0UjJQOEd2VU9OMnkzYlUxT3RnUyt1WEovcmQ0a09Cb1ZOZkNEVG1uSWxadFR5cXhSdWV0aXJ2cmh5UFVrQmxmbHp5YnEzaS9XUjJVM0pjNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzY2ODA5CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuMi4wX3g2NC1zZXR1cC5leGUKRmtVMGlWNjVpbEZzdTQ5U09La0pUUEZ5RkRiQjkrcVU1cTJVWVdoKytMUll0bi9TUnJTN1F1RFdobzBySFBFY05jbHhjd2VjMUVLWkoxMWp1cXBWQnc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.2.0/IRIS%20Class%20Records_1.2.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "PASTE_CONTENTS_OF_YOUR_MAC_aarch64.app.tar.gz.sig",
+      "url": "PASTE_COPIED_GITHUB_LINK_TO_YOUR_MAC_aarch64.app.tar.gz"
+    }
+  }
+}
