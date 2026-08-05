@@ -1,0 +1,19 @@
+{
+  "version": "1.3.0",
+  "notes": "System Optimizations.",
+  "pub_date": "2026-08-05T21:54:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2cvbDVXSGtnMDdnVm15TitoMlZVTTRNWmpYSlpRMFgyZUU5WFlHNXdOcENEZ1d4MHUrbnN0YldWZ01BZEdvTU80cC9hRDBtdmR6UEhVVncyRFRickFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzY5MTA0CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuMy4wX3g2NC1zZXR1cC5leGUKdnhqcXdaNDNrMFZQNVlEMjVRTThmYWxRYmRIL0UvcTAzTXVJK3FYUGp3a2czMUdld2EvemFVSmppKzlQaGtnVTFLZUVLNFptUGtydUh4S3phaW9RQnc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.3.0/IRIS_Class_Records_1.3.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
