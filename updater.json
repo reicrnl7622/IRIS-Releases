@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "notes": "UI improvements and System Optimizations.",
-  "pub_date": "2026-08-06T01:16:00Z",
+  "version": "1.5.0",
+  "notes": "IRIS Class Records v1.5.0 - Updated asymmetrical statistics dashboard layout, compact summary metrics, and non-graded student distribution.",
+  "pub_date": "2026-08-06T15:27:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3VPd3daRFRqV2hQZi9yZ0czVXE1UEJoSEx5ZUl5ZGV2bE15WjR0SFpTRGhrV1JQQ0w3QldBMXBQR1A0NG1WTUtTZy9WaTEwRXZtZTI1Nm5WTUhDWkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTUwMTkwCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuNC4wX3g2NC1zZXR1cC5leGUKeEFERmdFL1hpb1FnMzBzNUhOYTFOU2RSK29zazdmbGtNNE5rbThwbDBlVEVOYzlVYUJDNXRncGRxdzRFVjdOK3RGNjM3dEpFOWo2WnpISy92NU5ZQkE9PQo=",
-      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.4.0/IRIS_Class_Records_1.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2d5RzdnTDNMbXFlMUlaM081b2lkQkRhbkVjMUd0ZTFKZHcxWTBsUGc4TG5iYXNQd3BHVm9GYmJxd2xNRHlhQy9na1VvcllKN3Q5bVR3VGZ2eTlyZVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDAxMjE4CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuNS4wX3g2NC1zZXR1cC5leGUKbnNlalppVENOTDh4YzU3Ty80SFp4Vk9sbTB5ckE4R2MrYXJ6S3BUSEhxMXdEaTV2YllYUWZHWjhwNTdJRlMzVFYzcXBNd1VoUVlkNG9Ma1NVZUMyQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.5.0/IRIS_Class_Records_1.5.0_x64-setup.exe"
     }
   }
 }
