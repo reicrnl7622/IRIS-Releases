@@ -1,0 +1,19 @@
+{
+  "version": "1.6.0",
+  "notes": "System improvements and optimizations.",
+  "pub_date": "2026-08-08T09:17:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3RrZTdMSmFZK3dRUUNmeTJZczh5L2lBRHNzZnNuZENJcEx4Q1V5eUo5MGN6eVNnb0xCNVF1ZURsRUhqQ0JkcThiVFVrNWNkQzF0dEJUaVdjbitoQXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUxOTI3CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKUmRnOGxwVDloNmJZV2haeG1SRVBTbEhaZjRsWUdFTU5WT0FFb0d3blZQMS85aHJzMVNSNVhrWWRsVDl2NkFSaDF5cmkwNVFWY2ZyZk5reWtQdEI4Qnc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.6.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3RrZTdMSmFZK3dRUUNmeTJZczh5L2lBRHNzZnNuZENJcEx4Q1V5eUo5MGN6eVNnb0xCNVF1ZURsRUhqQ0JkcThiVFVrNWNkQzF0dEJUaVdjbitoQXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUxOTI3CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKUmRnOGxwVDloNmJZV2haeG1SRVBTbEhaZjRsWUdFTU5WT0FFb0d3blZQMS85aHJzMVNSNVhrWWRsVDl2NkFSaDF5cmkwNVFWY2ZyZk5reWtQdEI4Qnc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.6.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3U4K2o2UW9EUHZUTytBVU9wWVlBZGlpNDNyYyswSXg0UTZTOHMxTURvcHpKSmg1bkhKdzFwMlk0L3ZSZUl4QVhDUWR1dUhXaXp6YjNYR0RXNUJlc1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTYwNjczCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuNi4wX3g2NC1zZXR1cC5leGUKQzF1TVptckVxV1VIRjJ6OEthQTJEUDZHZGJ2bkJTZ0hHblo1aFRta0F6allpd3ZkdWI4QThQbnRQQ2IrMUtISERDcWt2ZjE1Y0FxOFZaQVNKS29vRGc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.6.0/IRIS.Class.Records_1.6.0_x64-setup.exe"
+    }
+  }
+}
