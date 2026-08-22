@@ -1,0 +1,19 @@
+{
+  "version": "1.7.0",
+  "notes": "IRIS Class Records v1.7.0 Release",
+  "pub_date": "2026-08-22T23:27:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3VEcjZnbW9XTlZHZThucG5IWkZWSlMvOWliSWwzOUo5eGtEUzlxU2cxbG9uenZ2THBWb3E2eXJQS2pHdEFUVmUzOHBxdGcrY3JiaThaaXMzM2x6andzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDEyNTkyCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuNy4wX3g2NC1zZXR1cC5leGUKWm9zTWZqUnNVUlRqdWJpMkloQzRYQ2M1TEdvZ2Vhc0RCVXZPeDFxYWlXdjY5RU5YdzFvL2htdnZkNEpQcFVYVTdSM043T2hQN0FydWF5WU1hcmFSQ0E9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.7.0/IRIS.exe"
+    }
+  }
+}
