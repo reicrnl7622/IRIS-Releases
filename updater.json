@@ -1,0 +1,11 @@
+{
+  "version": "1.7.1",
+  "notes": "IRIS Class Records v1.7.1 Release - Bug fixes, attendance 75% baseline policy, course statistics histogram unlock, and system stability improvements.",
+  "pub_date": "2026-08-29T15:47:30.830Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2xIclhJWG9wdCszZWJZL0dET1YwRHA5QUplMnkvNjlueDhlanBmeDVJL2cvc3lvZk5kK0xTenBkSldTaDBlejgzaVJjbnpnNnkxTUhYUXBqSWlWeUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDE3ODgzCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuNy4xX3g2NC1zZXR1cC5leGUKTFI5YnlRd2tMOG8wa0p1K3N6WS83c2huSWlZelBkM0t0YmI0L1gvT3NybWYzUlkrSG1zWUxJaVM4ZXNDNWZzcWg3WXFwZGJyeE5OVEI2Q25XaHR2Q0E9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.7.1/IRIS%20Class%20Records_1.7.1_x64-setup.exe"
+    }
+  }
+}
