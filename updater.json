@@ -1,0 +1,19 @@
+{
+  "version": "1.8.0",
+  "notes": "IRIS Class Records v1.8.0 Release - Native macOS browser redirect handler, immovable column headers architecture, strict 6-tier z-index hierarchy, attendance 75% baseline policy, course statistics histogram unlock, and UI enhancements.",
+  "pub_date": "2026-08-30T12:59:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2g1Q1hpZlh6ODllV3NlNzlMck95dUNVaWZIV01tNEtSQ09kK2dFa2U4WVlsWXJ2V21TdXJFRC9qcVNxOEkvRTRKWkdDTFR6UDBJNXN6WW1QSncwT0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDY1NjI5CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzEuOC4wX3g2NC1zZXR1cC5leGUKS0hPOWVuWVRCRTFVdnVDd09neldBU2hNcXFIUUNDU3VEMGhyaDBmK2lTanUxbDZKTVlxR1IrbUpMWkZlQnhWL3dTOHVMZXVib0hHZEd4WEExRVJGQVE9PQ==",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.8.0/IRIS.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c21kVzVEUXBVUmFtaEYyR3NTMUFuVDlTdTh5eUFwZ3k4OGhOdWEwV0tEVjJGVnY1TkxRWjBuS1k1S1hHeUpvd2NXNTRMa1h6bEt1bGZmSE14UzFvTHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDY1OTcwCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKWDJLTlduOE1OTWFTZ2tJbkI4aTBpcXQ2V29CZmg1blNkQ2RwdVZ5aEwxVk03UlRXemlEdGhqL1NiMWtHMDBFbVZSOVNNQWFySHR6VWhoN1oxZVBuQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.8.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c21kVzVEUXBVUmFtaEYyR3NTMUFuVDlTdTh5eUFwZ3k4OGhOdWEwV0tEVjJGVnY1TkxRWjBuS1k1S1hHeUpvd2NXNTRMa1h6bEt1bGZmSE14UzFvTHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDY1OTcwCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKWDJLTlduOE1OTWFTZ2tJbkI4aTBpcXQ2V29CZmg1blNkQ2RwdVZ5aEwxVk03UlRXemlEdGhqL1NiMWtHMDBFbVZSOVNNQWFySHR6VWhoN1oxZVBuQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.8.0/IRIS.Class.Records.app.tar.gz"
+    }
+  }
+}
