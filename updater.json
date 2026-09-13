@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "notes": "Version 2.0.0 release featuring refined workspace desk layout and enhanced course analytics legibility.",
+  "pub_date": "2026-09-13T11:41:37.402Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3BmNjFCbE1iVVcrbVBoZ0xwV0NwVDcyMEwvcWZVZW1vYlFSSXBGMFRjSkh4WllxZG5CUXBzUmtnVEd6OWwzNVVaV2tyU1JhTHl6Y0Y3ei9VYVZndWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjk5Njk3CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzIuMC4wX3g2NC1zZXR1cC5leGUKamxFWHdwNDE5bUZTMStPME4raktEZU1UbDg0TTZCWnFEN2xSQWp3azExRHB1U0FnN29uTFlRU0tmVWFsdlBEQWMwdDVjbWoxdUlZODg1Q1ZtZzRBRHc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v2.0.0/IRIS%20Class%20Records_2.0.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    }
+  }
+}
