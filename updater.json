@@ -1,0 +1,19 @@
+{
+  "version": "2.2.0",
+  "notes": "Version 2.2.0 release featuring fluid breadcrumb push navigation, hover-morphing sidebar controls with extended section pills, unified omni-search roster integration, and refined typography.",
+  "pub_date": "2026-09-27T13:12:37.070Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c21NdUFyWFlWT0Z0NEFzZkRrUStOejJKL1pTeWFnNGNMeFcvRVdJazFUR3djQ0p4MkhZVkh3UTNRd0lGYitxbktZNXpMQzg2aTJUM3FtT0Myc2h1R3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTE0NzI1CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzIuMi4wX3g2NC1zZXR1cC5leGUKTHhhdE9CRTQrUXYyOXFDMnplamplMEhZdTlXZDdPUnFoTFIzOGlTSDlSak1YZzJoZ2pHTXhKVVZvc09KOS9TS3JCZ0N4WnBxU3lRbTY1Mk4xQjhwQmc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v2.2.0/IRIS.Class.Records_2.2.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    }
+  }
+}
