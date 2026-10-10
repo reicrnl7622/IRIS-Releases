@@ -1,0 +1,19 @@
+{
+  "version": "2.6.1",
+  "notes": "Version 2.6.1: UI Enhancements, System Optimizations, and Course Intelligence Updates.",
+  "pub_date": "2026-10-10T08:06:31.834Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c214aUVnRGlXWXQ1WnlQM0ljcUJKUE4xMXJweDFKclBtdDlwZE5QU29LWVF5d2xEamgrazJ3QVdFSi9NdTVzbDFXamx2Tnc2TFhJY2NSTGcxVU5hTHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjE5NTkxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzIuNi4xX3g2NC1zZXR1cC5leGUKazFCdjRGa1RiajNNTS9ib1VJYktiQWVYYklzVVBsQndDTnlYTERGS3dWOVc3VkQ0K0dBTWhndndIUUkwWHZ4MG13a0pMbGtzdFE3QjNlV24vbnFvRGc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v2.6.1/IRIS.Class.Records_2.6.1_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c2lzcHZ4OW5uNEs5WmNYUXozTzkzOFFuQThWYVBJNFcvUGtzNjd3MktwalNpVEkxRTZkc0V3YWp3MHB6dTAzTGdWTG5NMXJmeEFaZjJHbm11NWtWQUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDQ4MzgxCWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzLmFwcC50YXIuZ3oKaXFwNkh0NHV1M04xQ0JjQkx5em1NSmpUYitrWUZ3NE1JN0tRc2txbWRzbzQySDF0aG1IR3lkQXhmcnp3UDY2OUZnVjZHZkFOY2l0bnBuK0RxZDJiQVE9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v1.9.0/IRIS.Class.Records.app.tar.gz"
+    }
+  }
+}
