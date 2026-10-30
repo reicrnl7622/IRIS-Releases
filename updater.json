@@ -1,0 +1,11 @@
+{
+  "version": "2.8.2",
+  "notes": "Version 2.8.2: UI Enhancements & Data Protection.",
+  "pub_date": "2026-10-30T15:20:07.030Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZXdvWER2Ykh2c3BHc3R6eXJZSVB5OWZrT2xLTFZ5NXIzcmtCTGltbkR4UU1yK1pYYmR3TTI2RWJRc2JxQlFCdytScThTQUpsMjNHMUdzWUhvbWppRURqMUlwTTNJaVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzczNjA2CWZpbGU6SVJJUyBDbGFzcyBSZWNvcmRzXzIuOC4yX3g2NC1zZXR1cC5leGUKcXVzbHA5eFlkaklkUkQrQldlQ09UMUVVOXdZMm1MMXl3TDNTMHlrUVFhWjFkamtIVlJLbjFCbWlqSmErVnhYSmd4R21pcjJrcHN0a29tSXhIVUtnQWc9PQo=",
+      "url": "https://github.com/reicrnl7622/IRIS-Releases/releases/download/v2.8.2/IRIS.Class.Records_2.8.2_x64-setup.exe"
+    }
+  }
+}
